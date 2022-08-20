@@ -23,12 +23,12 @@
 <details>
 <summary> 💡 Github Stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&theme=github_dark%22%3E >
+<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&theme=github_dark%22%3E" >
 </details>
 
 
 <details>
 <summary> 💡 Most Used Langueages</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushcmd&layout=compact%22%3E >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushcmd&layout=compact%22%3E" >
 </details>
