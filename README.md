@@ -1,16 +1,34 @@
-### Hi there 👋
+### 👋 Hi there, I'm Selim.
 
-<!--
-**jushcmd/jushcmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vue Developer, React Developer |  Full Stack Developer
 
-Here are some ideas to get you started:
+## Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
+
+
+
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25">
+
+
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25">
+
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25">
+
+<img  align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25">
+
+<br />
+<br />
+
+<details>
+<summary> 💡 Github Stats</summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SelimPolat16&theme=github_dark%22%3E
+</details>
+
+
+<details>
+<summary> 💡 Most Used Langueages</summary>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimPolat16&layout=compact%22%3E
+</details>
