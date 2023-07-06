@@ -97,7 +97,7 @@
 <details>
 <summary> 💡 Github Stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&theme=github_dark%22%3E" >
+<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&show_icons=true&theme=radical" >
 </details>
 
 
