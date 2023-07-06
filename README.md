@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Selim.
 
-## Vue Developer, React Developer |  Full Stack Developer
+## Vue Developer, React Developer |  Frontend Developer
 
 ## Tech I Use
 
