@@ -104,6 +104,6 @@
 <details>
 <summary> 💡 Most Used Langueages</summary>
 
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jushcmd&layout=compact&langs_count=8&card_width=320" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jushcmd&layout=compact&langs_count=8&card_width=320&theme=radical" />
 
 </details>
