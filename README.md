@@ -21,6 +21,7 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap"
+    align="left"
     width="25"
     height="25"
   />
@@ -28,6 +29,7 @@
  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
+    align="left"
     width="25"
     height="25"
   />
@@ -36,6 +38,7 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
+    align="left"
     width="25"
     height="25"
   />
@@ -43,6 +46,7 @@
    <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb"
+    align="left"
     width="25"
     height="25"
   />
@@ -50,6 +54,7 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
+    align="left"
     width="25"
     height="25"
   />
@@ -57,6 +62,7 @@
    <img
     src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
     alt="nextjs"
+    align="left"
     width="25"
     height="25"
   />
@@ -64,6 +70,7 @@
    <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
+    align="left"
     width="25"
     height="25"
   />
@@ -71,6 +78,7 @@
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
     alt="svelte"
+    align="left"
     width="25"
     height="25"
   />
@@ -78,6 +86,7 @@
  <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwind"
+    align="left"
     width="25"
     height="25"
   />
@@ -98,5 +107,6 @@
 <details>
 <summary> 💡 Most Used Langueages</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushcmd&layout=compact%22%3E" >
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jushcmd&layout=compact&langs_count=8&card_width=320" />
+
 </details>
