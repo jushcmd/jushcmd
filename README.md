@@ -97,13 +97,13 @@
 <details>
 <summary> 💡 Github Stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&show_icons=true&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=jushcmd&show_icons=true&theme=transparent" >
 </details>
 
 
 <details>
 <summary> 💡 Most Used Langueages</summary>
 
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jushcmd&layout=compact&langs_count=8&card_width=320&theme=radical" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushcmd&layout=compact" />
 
 </details>
