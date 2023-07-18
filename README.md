@@ -72,13 +72,6 @@
     height="25"
   />
 
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-    alt="svelte"
-    align="left"
-    width="25"
-    height="25"
-  />
 
  <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -89,6 +82,15 @@
   />
 
   
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
+    alt="svelte"
+    align="left"
+    width="25"
+    height="25"
+  />
+
+
 
   
 <br />
